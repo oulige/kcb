@@ -4,7 +4,7 @@
   "startdate": "2022/2/28",
   "pic": [
     {
-      "pic": "https://iguapi.cn/jdzs/image/bg3.png",
+      "pic": "http://wudi.tech/img/bg1.png",
       "url": ""
     }
   ]
