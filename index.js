@@ -6,7 +6,7 @@
   "pic": [
     {
       "pic": "https://iguapi.cn/jdzs/image/bg3.png",
-      "url": ""
+      "url": "101"
     }
   ]
 }
